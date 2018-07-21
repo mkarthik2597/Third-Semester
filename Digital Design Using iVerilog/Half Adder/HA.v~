@@ -1,0 +1,7 @@
+module HA(a,b,cout,sum);
+input a,b;
+output cout,sum;
+
+and G1(cout,a,b);
+xor G2(sum,a,b);
+endmodule

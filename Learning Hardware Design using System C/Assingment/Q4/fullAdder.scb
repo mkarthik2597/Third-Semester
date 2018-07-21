@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <and.h path="H:/Academics/SystemC/Assignment/Full Adder/and.h"/>
+  <driver.h path="H:/Academics/SystemC/Assignment/Full Adder/driver.h"/>
+  <fulladder.h path="H:/Academics/SystemC/Assignment/Full Adder/fulladder.h"/>
+  <halfadder.h path="H:/Academics/SystemC/Assignment/Full Adder/halfadder.h"/>
+  <mon.h path="H:/Academics/SystemC/Assignment/Full Adder/mon.h"/>
+  <or.h path="H:/Academics/SystemC/Assignment/Full Adder/or.h"/>
+  <xor.h path="H:/Academics/SystemC/Assignment/Full Adder/xor.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="H:/Academics/SystemC/Assignment/Full Adder/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="H:/Academics/SystemC/FinalAssignment/FullAdder/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

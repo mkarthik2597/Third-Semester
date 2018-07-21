@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <__scb__16to4.h path="C:/Users/Karthik/Desktop/A1/Q2/Encoder/16to4.h" numericLead="__scb__"/>
+  <driver.h path="C:/Users/Karthik/Desktop/A1/Q2/Encoder/driver.h"/>
+  <monitor.h path="C:/Users/Karthik/Desktop/A1/Q2/Encoder/monitor.h"/>
+  <Or4.h path="C:/Users/Karthik/Desktop/A1/Q2/Encoder/Or4.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="C:/Users/Karthik/Desktop/A1/Q2/Encoder/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Karthik/Desktop/A1/Q2/Encoder/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

@@ -1,0 +1,3 @@
+C:/Users/Karthik/Desktop/SystemC/Interconnect/.transmission_build/CMakeFiles/rebuild_cache.dir
+C:/Users/Karthik/Desktop/SystemC/Interconnect/.transmission_build/CMakeFiles/transmission.dir
+C:/Users/Karthik/Desktop/SystemC/Interconnect/.transmission_build/CMakeFiles/edit_cache.dir

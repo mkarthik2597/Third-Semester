@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <common.h path="C:/Users/Karthik/Desktop/SystemC/Interconnect/common.h"/>
+  <machinea.h path="C:/Users/Karthik/Desktop/SystemC/Interconnect/machinea.h"/>
+  <machineb.h path="C:/Users/Karthik/Desktop/SystemC/Interconnect/machineb.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="C:/Users/Karthik/Desktop/SystemC/Interconnect/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Karthik/Desktop/SystemC/Interconnect/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

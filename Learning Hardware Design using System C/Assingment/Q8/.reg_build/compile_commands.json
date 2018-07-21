@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/A1/Q8/.reg_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/reg.dir/includes_CXX.rsp   -o CMakeFiles\\reg.dir\\main.cpp.obj -c C:\\Users\\Karthik\\Desktop\\A1\\Q8\\main.cpp",
+  "file": "C:/Users/Karthik/Desktop/A1/Q8/main.cpp"
+}
+]

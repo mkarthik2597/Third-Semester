@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<SCBuilder_Project>
+ <Headers>
+  <__scb__4to16.h path="C:/Users/Karthik/Desktop/A1/Q2/Decoder/4to16.h" numericLead="__scb__"/>
+  <Ar2to4.h path="C:/Users/Karthik/Desktop/A1/Q2/Decoder/Ar2to4.h"/>
+  <driver.h path="C:/Users/Karthik/Desktop/A1/Q2/Decoder/driver.h"/>
+  <monitor.h path="C:/Users/Karthik/Desktop/A1/Q2/Decoder/monitor.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="C:/Users/Karthik/Desktop/A1/Q2/Decoder/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Karthik/Desktop/A1/Q2/Decoder/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

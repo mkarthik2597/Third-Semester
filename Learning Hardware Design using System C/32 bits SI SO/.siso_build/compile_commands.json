@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/32bitsiso/.siso_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/siso.dir/includes_CXX.rsp   -o CMakeFiles\\siso.dir\\main.cpp.obj -c C:\\Users\\Karthik\\Desktop\\32bitsiso\\main.cpp",
+  "file": "C:/Users/Karthik/Desktop/32bitsiso/main.cpp"
+}
+]

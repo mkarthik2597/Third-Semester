@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <and.h path="H:/Academics/SystemC/Assignment/HalfAdder/and.h"/>
+  <driver.h path="H:/Academics/SystemC/Assignment/HalfAdder/driver.h"/>
+  <ha.h path="H:/Academics/SystemC/Assignment/HalfAdder/ha.h"/>
+  <mon.h path="H:/Academics/SystemC/Assignment/HalfAdder/mon.h"/>
+  <xor.h path="H:/Academics/SystemC/Assignment/HalfAdder/xor.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="H:/Academics/SystemC/Assignment/HalfAdder/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="H:/Academics/SystemC/FinalAssignment/HalfAdder/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

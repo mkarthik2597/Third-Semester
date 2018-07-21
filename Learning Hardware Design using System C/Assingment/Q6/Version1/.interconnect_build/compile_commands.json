@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/A1/Q6/.interconnect_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/interconnect.dir/includes_CXX.rsp   -o CMakeFiles\\interconnect.dir\\control.cpp.obj -c C:\\Users\\Karthik\\Desktop\\A1\\Q6\\control.cpp",
+  "file": "C:/Users/Karthik/Desktop/A1/Q6/control.cpp"
+}
+]

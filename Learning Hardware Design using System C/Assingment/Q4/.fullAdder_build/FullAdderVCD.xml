@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <signal name="/SystemC/A" color="#008000" radix="0" flag="0"/>
+    <signal name="/SystemC/B" color="#008000" radix="0" flag="0"/>
+    <signal name="/SystemC/Carry_in" color="#008000" radix="0" flag="0"/>
+    <signal name="/SystemC/Sum" color="#008000" radix="0" flag="0"/>
+    <signal name="/SystemC/Carry_out" color="#008000" radix="0" flag="0"/>
+</module>

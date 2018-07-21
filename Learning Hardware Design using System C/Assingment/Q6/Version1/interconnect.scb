@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<SCBuilder_Project>
+ <Headers>
+  <machinA.h path="C:/Users/Karthik/Desktop/A1/Q6/machinA.h"/>
+  <machinB.h path="C:/Users/Karthik/Desktop/A1/Q6/machinB.h"/>
+ </Headers>
+ <Sources>
+  <control.cpp path="C:/Users/Karthik/Desktop/A1/Q6/control.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Karthik/Desktop/A1/Q6/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

@@ -1,0 +1,3 @@
+G:\SCBuilder\CMake\bin\cmake.exe -E remove -f CMakeFiles\fullAdder.dir/objects.a
+G:\SCBuilder\mingw32\bin\ar.exe cr CMakeFiles\fullAdder.dir/objects.a @CMakeFiles\fullAdder.dir\objects1.rsp
+G:\SCBuilder\mingw32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\fullAdder.dir/objects.a -Wl,--no-whole-archive  -o fullAdder.exe -Wl,--out-implib,libfullAdder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fullAdder.dir\linklibs.rsp

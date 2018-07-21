@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <and.h path="H:/Academics/SystemC/Assignment/n bit Adder/and.h"/>
+  <fulladder.h path="H:/Academics/SystemC/Assignment/n bit Adder/fulladder.h"/>
+  <halfadder.h path="H:/Academics/SystemC/Assignment/n bit Adder/halfadder.h"/>
+  <or.h path="H:/Academics/SystemC/Assignment/n bit Adder/or.h"/>
+  <xor.h path="H:/Academics/SystemC/Assignment/n bit Adder/xor.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="H:/Academics/SystemC/Assignment/n bit Adder/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="H:/Academics/SystemC/FinalAssignment/NBitAdder/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

@@ -1,0 +1,3 @@
+C:/Users/Karthik/Desktop/A1/Q1/.hello_build/CMakeFiles/hello.dir
+C:/Users/Karthik/Desktop/A1/Q1/.hello_build/CMakeFiles/edit_cache.dir
+C:/Users/Karthik/Desktop/A1/Q1/.hello_build/CMakeFiles/rebuild_cache.dir

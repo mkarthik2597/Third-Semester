@@ -1,0 +1,1 @@
+ -LG:/SCBuilder/SystemC/lib-mingw  -LG:/SCBuilder/SCV/lib-mingw  -lscv -lsystemc -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

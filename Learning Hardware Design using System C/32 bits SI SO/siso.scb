@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <drive.h path="C:/Users/Karthik/Desktop/32bitsiso/drive.h"/>
+  <Driver.h path="C:/Users/Karthik/Desktop/32bitsiso/Driver.h"/>
+  <Shr.h path="C:/Users/Karthik/Desktop/32bitsiso/Shr.h"/>
+  <Sr.h path="C:/Users/Karthik/Desktop/32bitsiso/Sr.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="C:/Users/Karthik/Desktop/32bitsiso/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Karthik/Desktop/32bitsiso/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

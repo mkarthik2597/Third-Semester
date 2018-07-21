@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/SystemC/Interconnect/.transmission_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/transmission.dir/includes_CXX.rsp   -o CMakeFiles\\transmission.dir\\control.cpp.obj -c C:\\Users\\Karthik\\Desktop\\SystemC\\Interconnect\\control.cpp",
+  "file": "C:/Users/Karthik/Desktop/SystemC/Interconnect/control.cpp"
+}
+]

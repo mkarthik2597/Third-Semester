@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/A1/Q1/.hello_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/hello.dir/includes_CXX.rsp   -o CMakeFiles\\hello.dir\\main.cpp.obj -c C:\\Users\\Karthik\\Desktop\\A1\\Q1\\main.cpp",
+  "file": "C:/Users/Karthik/Desktop/A1/Q1/main.cpp"
+}
+]

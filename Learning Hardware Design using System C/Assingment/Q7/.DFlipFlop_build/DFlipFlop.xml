@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <signal name="/SystemC/D" color="#008000" radix="0" flag="0"/>
+    <signal name="/SystemC/Clk" color="#008000" radix="0" flag="0"/>
+    <signal name="/SystemC/Q" color="#008000" radix="0" flag="0"/>
+    <signal name="/SystemC/QNeg" color="#008000" radix="0" flag="0"/>
+</module>

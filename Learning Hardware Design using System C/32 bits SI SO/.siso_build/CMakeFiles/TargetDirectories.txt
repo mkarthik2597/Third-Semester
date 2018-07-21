@@ -1,0 +1,3 @@
+C:/Users/Karthik/Desktop/32bitsiso/.siso_build/CMakeFiles/siso.dir
+C:/Users/Karthik/Desktop/32bitsiso/.siso_build/CMakeFiles/edit_cache.dir
+C:/Users/Karthik/Desktop/32bitsiso/.siso_build/CMakeFiles/rebuild_cache.dir

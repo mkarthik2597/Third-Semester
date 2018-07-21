@@ -1,0 +1,29 @@
+$date
+	Thu Nov 10 19:07:06 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module t_Johnson $end
+$var wire 4 ! A [3:0] $end
+$upscope $end
+$enddefinitions $end
+#2000
+$dumpvars
+b0 !
+$end
+#7000
+b1000 !
+#17000
+b1100 !
+#27000
+b1110 !
+#37000
+b1111 !
+#47000
+b111 !
+#57000
+b11 !

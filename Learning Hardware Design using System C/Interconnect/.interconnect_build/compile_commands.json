@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/SystemC/Interconnect/.interconnect_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/interconnect.dir/includes_CXX.rsp   -o CMakeFiles\\interconnect.dir\\main.cpp.obj -c C:\\Users\\Karthik\\Desktop\\SystemC\\Interconnect\\main.cpp",
+  "file": "C:/Users/Karthik/Desktop/SystemC/Interconnect/main.cpp"
+}
+]

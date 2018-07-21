@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <dff.h path="H:/Academics/SystemC/Assignment/D_Flip_Flop/dff.h"/>
+  <driver.h path="H:/Academics/SystemC/Assignment/D_Flip_Flop/driver.h"/>
+  <monitor.h path="H:/Academics/SystemC/Assignment/D_Flip_Flop/monitor.h"/>
+ </Headers>
+ <Sources>
+  <main.cc path="H:/Academics/SystemC/Assignment/D_Flip_Flop/main.cc"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="H:/Academics/SystemC/FinalAssignment/DFlipFlop/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

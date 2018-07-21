@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/A1/Q2/Encoder/.encoder_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/encoder.dir/includes_CXX.rsp   -o CMakeFiles\\encoder.dir\\main.cpp.obj -c C:\\Users\\Karthik\\Desktop\\A1\\Q2\\Encoder\\main.cpp",
+  "file": "C:/Users/Karthik/Desktop/A1/Q2/Encoder/main.cpp"
+}
+]

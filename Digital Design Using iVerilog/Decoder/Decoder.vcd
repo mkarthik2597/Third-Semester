@@ -1,0 +1,23 @@
+$date
+	Wed Nov 09 07:59:46 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module t_decoder $end
+$var reg 1 ! b $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+$end
+#20000
+1!
+#40000
+0!
+#60000
+1!

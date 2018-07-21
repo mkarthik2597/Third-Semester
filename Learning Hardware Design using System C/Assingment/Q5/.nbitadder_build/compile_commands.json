@@ -1,0 +1,7 @@
+[
+{
+  "directory": "H:/Academics/SystemC/FinalAssignment/NBitAdder/.nbitadder_build",
+  "command": "G:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/nbitadder.dir/includes_CXX.rsp   -o CMakeFiles\\nbitadder.dir\\H_\\Academics\\SystemC\\Assignment\\n_bit_Adder\\main.cpp.obj -c \"H:\\Academics\\SystemC\\Assignment\\n bit Adder\\main.cpp\"",
+  "file": "H:/Academics/SystemC/Assignment/n bit Adder/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/Karthik/Desktop/SystemC/DFlipFlop/.DFlipFlop_build/CMakeFiles/rebuild_cache.dir
+C:/Users/Karthik/Desktop/SystemC/DFlipFlop/.DFlipFlop_build/CMakeFiles/DFlipFlop.dir
+C:/Users/Karthik/Desktop/SystemC/DFlipFlop/.DFlipFlop_build/CMakeFiles/edit_cache.dir

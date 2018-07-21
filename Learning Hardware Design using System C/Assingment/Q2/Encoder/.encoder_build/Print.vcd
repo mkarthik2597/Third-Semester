@@ -1,0 +1,214 @@
+$date
+     Sep 18, 2016       10:08:13
+$end
+
+$version
+ SystemC 2.3.1-Accellera --- Jun 22 2016 09:40:28
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  clk       $end
+$var wire    1  aaaab  D0       $end
+$var wire    1  aaaac  D1       $end
+$var wire    1  aaaad  D2       $end
+$var wire    1  aaaae  D3       $end
+$var wire    1  aaaaf  D4       $end
+$var wire    1  aaaag  D5       $end
+$var wire    1  aaaah  D6       $end
+$var wire    1  aaaai  D7       $end
+$var wire    1  aaaaj  D8       $end
+$var wire    1  aaaak  D9       $end
+$var wire    1  aaaal  D10       $end
+$var wire    1  aaaam  D11       $end
+$var wire    1  aaaan  D12       $end
+$var wire    1  aaaao  D13       $end
+$var wire    1  aaaap  D14       $end
+$var wire    1  aaaaq  D15       $end
+$var wire    1  aaaar  w       $end
+$var wire    1  aaaas  x       $end
+$var wire    1  aaaat  y       $end
+$var wire    1  aaaau  z       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+1aaaab
+0aaaac
+0aaaad
+0aaaae
+0aaaaf
+0aaaag
+0aaaah
+0aaaai
+0aaaaj
+0aaaak
+0aaaal
+0aaaam
+0aaaan
+0aaaao
+0aaaap
+0aaaaq
+0aaaar
+0aaaas
+0aaaat
+0aaaau
+$end
+
+#10000
+1aaaaa
+0aaaab
+1aaaac
+1aaaau
+
+#15000
+0aaaaa
+
+#20000
+1aaaaa
+0aaaac
+1aaaad
+1aaaat
+0aaaau
+
+#25000
+0aaaaa
+
+#30000
+1aaaaa
+0aaaad
+1aaaae
+1aaaau
+
+#35000
+0aaaaa
+
+#40000
+1aaaaa
+0aaaae
+1aaaaf
+1aaaas
+0aaaat
+0aaaau
+
+#45000
+0aaaaa
+
+#50000
+1aaaaa
+0aaaaf
+1aaaag
+1aaaau
+
+#55000
+0aaaaa
+
+#60000
+1aaaaa
+0aaaag
+1aaaah
+1aaaat
+0aaaau
+
+#65000
+0aaaaa
+
+#70000
+1aaaaa
+0aaaah
+1aaaai
+1aaaau
+
+#75000
+0aaaaa
+
+#80000
+1aaaaa
+0aaaai
+1aaaaj
+1aaaar
+0aaaas
+0aaaat
+0aaaau
+
+#85000
+0aaaaa
+
+#90000
+1aaaaa
+0aaaaj
+1aaaak
+1aaaau
+
+#95000
+0aaaaa
+
+#100000
+1aaaaa
+0aaaak
+1aaaal
+1aaaat
+0aaaau
+
+#105000
+0aaaaa
+
+#110000
+1aaaaa
+0aaaal
+1aaaam
+1aaaau
+
+#115000
+0aaaaa
+
+#120000
+1aaaaa
+0aaaam
+1aaaan
+1aaaas
+0aaaat
+0aaaau
+
+#125000
+0aaaaa
+
+#130000
+1aaaaa
+0aaaan
+1aaaao
+1aaaau
+
+#135000
+0aaaaa
+
+#140000
+1aaaaa
+0aaaao
+1aaaap
+1aaaat
+0aaaau
+
+#145000
+0aaaaa
+
+#150000
+1aaaaa
+0aaaap
+1aaaaq
+1aaaau
+
+#155000
+0aaaaa
+
+#160000
+1aaaaa
+

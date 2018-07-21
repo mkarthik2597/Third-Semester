@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Karthik/Desktop/SystemC/DFlipFlop/.DFlipFlop_build",
+  "command": "C:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/DFlipFlop.dir/includes_CXX.rsp   -o CMakeFiles\\DFlipFlop.dir\\main.cc.obj -c C:\\Users\\Karthik\\Desktop\\SystemC\\DFlipFlop\\main.cc",
+  "file": "C:/Users/Karthik/Desktop/SystemC/DFlipFlop/main.cc"
+}
+]

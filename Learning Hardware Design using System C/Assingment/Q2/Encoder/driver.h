@@ -1,0 +1,65 @@
+#include"systemc.h"
+SC_MODULE(driver)
+{
+	sc_in<bool>clk;
+	sc_out<bool>D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15;
+	
+	void stimulate()
+	{
+		D0.write(true);
+		wait();
+		D1.write(true);
+		D0.write(false);
+		wait();
+		D2.write(true);
+		D1.write(false);
+		wait();
+		D3.write(true);
+		D2.write(false);
+		wait();
+		D4.write(true);
+		D3.write(false);
+		wait();
+		D5.write(true);
+		D4.write(false);
+		wait();
+		D6.write(true);
+		D5.write(false);
+		wait();
+		D7.write(true);
+		D6.write(false);
+		wait();
+		D8.write(true);
+		D7.write(false);
+		wait();
+		D9.write(true);
+		D8.write(false);
+		wait();
+		D10.write(true);
+		D9.write(false);
+		wait();
+		D11.write(true);
+		D10.write(false);
+		wait();
+		D12.write(true);
+		D11.write(false);
+		wait();
+		D13.write(true);
+		D12.write(false);
+		wait();
+		D14.write(true);
+		D13.write(false);
+		wait();
+		D15.write(true);
+		D14.write(false);
+		wait();
+		
+		sc_stop();
+	}
+	
+	SC_CTOR(driver)
+	{
+		SC_THREAD(stimulate);
+		sensitive<<clk.pos();
+	}
+};

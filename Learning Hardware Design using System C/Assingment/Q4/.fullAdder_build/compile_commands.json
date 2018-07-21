@@ -1,0 +1,7 @@
+[
+{
+  "directory": "H:/Academics/SystemC/FinalAssignment/FullAdder/.fullAdder_build",
+  "command": "G:\\SCBuilder\\mingw32\\bin\\g++.exe    @CMakeFiles/fullAdder.dir/includes_CXX.rsp   -o CMakeFiles\\fullAdder.dir\\H_\\Academics\\SystemC\\Assignment\\Full_Adder\\main.cpp.obj -c \"H:\\Academics\\SystemC\\Assignment\\Full Adder\\main.cpp\"",
+  "file": "H:/Academics/SystemC/Assignment/Full Adder/main.cpp"
+}
+]

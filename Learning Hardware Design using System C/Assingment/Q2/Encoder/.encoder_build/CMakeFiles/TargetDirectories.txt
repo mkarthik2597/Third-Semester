@@ -1,0 +1,3 @@
+C:/Users/Karthik/Desktop/A1/Q2/Encoder/.encoder_build/CMakeFiles/encoder.dir
+C:/Users/Karthik/Desktop/A1/Q2/Encoder/.encoder_build/CMakeFiles/edit_cache.dir
+C:/Users/Karthik/Desktop/A1/Q2/Encoder/.encoder_build/CMakeFiles/rebuild_cache.dir

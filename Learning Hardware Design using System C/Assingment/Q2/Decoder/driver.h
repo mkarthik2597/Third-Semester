@@ -1,0 +1,101 @@
+#include"systemc.h"
+SC_MODULE(driver)
+{
+	sc_in<bool>clk;
+	sc_out<bool>A,B,C,D;
+	
+	void stimulate()
+	{
+		
+		A.write(false);
+		B.write(false);
+		C.write(false);
+		D.write(false);
+		wait();
+		A.write(false);
+		B.write(false);
+		C.write(false);
+		D.write(true);
+		wait();
+		A.write(false);
+		B.write(false);
+		C.write(true);
+		D.write(false);
+		wait();
+        A.write(false);
+		B.write(false);
+		C.write(true);
+		D.write(true);
+		wait();
+		A.write(false);
+		B.write(true);
+		C.write(false);
+		D.write(false);
+		wait();
+		A.write(false);
+		B.write(true);
+		C.write(false);
+		D.write(true);
+		wait();
+		A.write(false);
+		B.write(true);
+		C.write(true);
+		D.write(false);
+		wait();
+		A.write(false);
+		B.write(true);
+		C.write(true);
+		D.write(true);
+		wait();
+		A.write(true);
+		B.write(false);
+		C.write(false);
+		D.write(false);
+		wait();
+		A.write(true);
+		B.write(false);
+		C.write(false);
+		D.write(true);
+		wait();
+		A.write(true);
+		B.write(false);
+		C.write(true);
+		D.write(false);
+		wait();
+		A.write(true);
+		B.write(false);
+		C.write(true);
+		D.write(true);
+		wait();
+		A.write(true);
+		B.write(true);
+		C.write(false);
+		D.write(false);
+		wait();
+		A.write(true);
+		B.write(true);
+		C.write(false);
+		D.write(true);
+		wait();
+		A.write(true);
+		B.write(true);
+		C.write(true);
+		D.write(false);
+		wait();
+		A.write(true);
+		B.write(true);
+		C.write(true);
+		D.write(true);
+		wait();
+		
+		
+		sc_stop();
+	}
+	
+	SC_CTOR(driver)
+	{
+		SC_THREAD(stimulate);
+		sensitive<<clk.pos();
+	}
+};
+	

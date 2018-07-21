@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<SCBuilder_Project>
+ <Headers>
+  <Driver.h path="C:/Users/Karthik/Desktop/A1/Q1/Driver.h"/>
+  <print.h path="C:/Users/Karthik/Desktop/A1/Q1/print.h"/>
+ </Headers>
+ <Sources>
+  <main.cpp path="C:/Users/Karthik/Desktop/A1/Q1/main.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Karthik/Desktop/A1/Q1/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>

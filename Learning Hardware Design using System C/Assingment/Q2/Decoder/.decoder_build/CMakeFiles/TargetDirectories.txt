@@ -1,0 +1,3 @@
+C:/Users/Karthik/Desktop/A1/Q2/Decoder/.decoder_build/CMakeFiles/decoder.dir
+C:/Users/Karthik/Desktop/A1/Q2/Decoder/.decoder_build/CMakeFiles/edit_cache.dir
+C:/Users/Karthik/Desktop/A1/Q2/Decoder/.decoder_build/CMakeFiles/rebuild_cache.dir

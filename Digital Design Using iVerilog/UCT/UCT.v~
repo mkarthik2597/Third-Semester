@@ -1,0 +1,24 @@
+module Ucounter(clk,reset,load,binary,load_s);
+input clk,reset,load_s;
+input [3:0] load;
+output [3:0] binary;
+
+reg [3:0] c_reg;
+wire [3:0] c_next;
+
+always@(posedge clk,reset,load_s)
+begin
+if(reset==0)
+c_reg<=0;
+else if(load_s==1)
+c_reg<=load;
+else
+c_reg<=c_next;
+end
+
+assign binary=c_reg;
+assign c_next=c_reg+1;
+
+endmodule
+
+
